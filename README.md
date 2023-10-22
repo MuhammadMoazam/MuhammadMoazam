@@ -88,7 +88,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=muhammadaffanmaqsood&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" onerror="this.style.display='none';" />
+  <img src="https://streak-stats.demolab.com?user=muhammadmoazam&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" onerror="this.style.display='none';" />
 </div>
 
 ###
@@ -97,7 +97,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmoazam&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="173" alt="stats graph" onerror="this.style.display='none';" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMoazam&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="173" alt="stats graph" onerror="this.style.display='none';" />
   <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmoazam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="139" alt="languages graph"  />
