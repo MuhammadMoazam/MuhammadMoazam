@@ -32,13 +32,13 @@
 <a href="https://www.instagram.com/m.moazam71/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch.affan.ali" height="30" width="40" /></a>
 </p>
 
-###
 
-<h3 align="left">🛠 Language and tools</h3>
 
-###
+<h3 align="center">🛠 Language and tools</h3>
 
-<div align="left">
+
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
@@ -77,21 +77,20 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
-###
 
-<h3>📈  My Contribution Graph</h3>
+
+<h3 align="center">📈  My Contribution Graph</h3>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMoazam&hide_border=true&theme=react-dark&custom_title=Moazam%27s+Contribution+Graph+%28Last+30+Days%29" />
 
-###
-<h3 align="left">🔥   My Stats :</h3>
 
-###
+<h3 align="center">🔥   My Stats :</h3>
+
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=muhammadmoazam&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" onerror="this.style.display='none';" />
 </div>
 
-###
 
 ###
 
